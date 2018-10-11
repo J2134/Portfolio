@@ -13,3 +13,10 @@ header {background: url('http://www.lovethispic.com/uploaded_images/182523-Futur
 	background-size: cover;}
 	@media only screen and (max-width: 600px) {#main {margin-left: 0}
 	}
+#photos {
+	text-align: center
+}
+
+#pLinks {
+	font-size: 25em
+}
